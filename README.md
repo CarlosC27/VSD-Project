@@ -1,2 +1,3 @@
-# express-starter
-This is a starter project for Express. It was created with the express project generator and then modified to be a module type (uses imports instead of requires, based on this tutorial), and with VSCode launch settings.
+### Verified Fan System Redesign Prototype
+
+This repository contains the prototype for a redesigned Ticketmaster Verified Fan system, aimed at addressing systemic flaws such as scalper exploitation, lack of transparency, and accessibility issues. The redesign integrates streaming platforms like Spotify, Apple Music, and YouTube to verify fan dedication through engagement metrics. Users link their streaming accounts, which determine their position in a staggered presale queue, promoting fairness and reducing bot activity. The prototype prioritizes Human Welfare, Trust, Universal Usability, Autonomy, and Calmness, providing a transparent and equitable ticketing process. It features user-friendly interfaces for account registration, data updates, and queue tracking. This solution is designed to enhance the ticket-buying experience while aligning with Value Sensitive Design principles.
